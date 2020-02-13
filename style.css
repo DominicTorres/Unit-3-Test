@@ -25,7 +25,7 @@ button{
     border: 2px solid  black;
     margin: 2px;
     font-size: 15px;
-    box-shadow: indigo 3px 3px 3px;
+    box-shadow: black 3px 3px 3px;
 }
 form, p{
     color:rgb(236, 178, 71);
